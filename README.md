@@ -1,4 +1,4 @@
-# 황석준
+# 황석준😀
 seokjun0515@gmail.com · https://only-oli.tistory.com
 
 [![OnlyOli's stats](https://github-readme-stats.vercel.app/api?username=OnlyOli&theme=discord_old_blurple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,14 +16,14 @@ seokjun0515@gmail.com · https://only-oli.tistory.com
 
 ---
 
-## Projact  
-### Blog  
+## Projact📘  
+### Blog📋  
 * [백준으로 파이썬 배우기](https://only-oli.tistory.com/category/%EB%B0%B1%EC%A4%80%EC%9C%BC%EB%A1%9C%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%B0%B0%EC%9A%B0%EA%B8%B0)  
 * [프로그래밍 도구 설치하기](https://only-oli.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%8F%84%EA%B5%AC%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)  
 
 ---
 
-## Coding style
+## Coding style⌨️
 ### C/C++
 ```C
 #include <stdio.h>
