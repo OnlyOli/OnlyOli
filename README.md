@@ -9,6 +9,7 @@ seokjun0515@gmail.com · https://only-oli.tistory.com
 ### Language💡
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=C&logoColor=white)
+![arduino](https://img.shields.io/badge/-arduino-0CA1A6?style=flat-square&logo=arduino&logoColor=white)
 ### Tools💡
 ![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
