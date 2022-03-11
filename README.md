@@ -12,6 +12,7 @@ seokjun0515@gmail.com · https://only-oli.tistory.com
 ![arduino](https://img.shields.io/badge/-arduino-0CA1A6?style=flat-square&logo=arduino&logoColor=white)
 ### Tools💡
 ![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-A377DA?style=flat-square&logo=visualstudio&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-007BD6?style=flat-square&logo=Windows&logoColor=white)
 
